@@ -1,7 +1,7 @@
 # UiPath Automation
 ## Automation for Student 
 
-Using this process student can navigate by voice and evitate the waste of time
+Using this process student can navigate by voice on itbs student platforme and evitate the waste of time
 
 + Choose timesheet or notes by voice 
 + Choose the semester by voice
@@ -17,8 +17,6 @@ Using this process teachers can save time and be more productive
 ## How to use?
 + Download UiPath Studio from official website https://www.uipath.com
 + Clone the project
-+ Open project using studio
++ Open project using main
 + Click Run
 
-Youtube Link: 
-https://youtu.be/4wrWUIUP9I4
