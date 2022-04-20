@@ -1,4 +1,10 @@
 # UiPath Automation
+## Automation for Student 
+
+Using this process student can navigate by voice and evitate the waste of time
+
++ Choose timesheet or notes by voice 
++ Choose the semester by voice
 
 ## Automation for Teachers
 
